@@ -20,7 +20,7 @@ class Draw_Board
 
 	def contineu()
 		@win = false
-		@rem_turns = 24
+		@rem_turns = 9
 		@turn = 0
 		@input = ""
 		@grid = {
